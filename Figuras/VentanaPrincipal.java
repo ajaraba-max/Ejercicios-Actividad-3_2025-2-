@@ -31,7 +31,7 @@ public class VentanaPrincipal extends JFrame implements ActionListener {
         pirámide = new JButton();
         pirámide.setText("Pirámide");
         pirámide.setBounds(225, 50, 100, 23);
-        pirámide.addActionListener(this);
+        pirámide.addActionListener(this); 
         contenedor.add(cilindro);
         contenedor.add(esfera);
         contenedor.add(pirámide);

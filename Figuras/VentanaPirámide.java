@@ -60,7 +60,7 @@ public class VentanaPirámide extends JFrame implements ActionListener {
     
     public void actionPerformed(ActionEvent event) {
         Piramide pirámide;
-        boolean error = false;
+        boolean error = false; 
         double base = 0;
         double altura = 0;
         double apotema = 0;

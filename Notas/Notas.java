@@ -1,6 +1,6 @@
 package Notas;
 
-public class Notas {
+public class Notas { 
     double[] listaNotas;
 
     public Notas() {

@@ -1,6 +1,6 @@
 package Figuras;
 
-public class FiguraGeométrica {
+public class FiguraGeométrica { 
     private double volumen;
     private double superficie;
 

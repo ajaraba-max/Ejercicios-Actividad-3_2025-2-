@@ -44,7 +44,7 @@ public class VentanaEsfera extends JFrame implements ActionListener {
         contenedor.add(volumen);
         contenedor.add(superficie);
     }
-
+ 
     public void actionPerformed(ActionEvent evento) {
         if (evento.getSource() == calcular) {
             boolean error = false;

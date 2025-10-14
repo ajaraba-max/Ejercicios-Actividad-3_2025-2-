@@ -1,6 +1,6 @@
 package Figuras;
 
-public class Esfera extends FiguraGeométrica {
+public class Esfera extends FiguraGeométrica { 
     private double radio;
     
     public Esfera(double radio) {

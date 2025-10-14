@@ -1,5 +1,5 @@
 package Figuras;
-public class Piramide extends FiguraGeométrica {
+public class Piramide extends FiguraGeométrica { 
     private double base;
     private double altura;
     private double apotema;
